@@ -1,4 +1,4 @@
 dt-select2
 ==========
 
-TypeScript declaration for select2 (from DefinitelyTyped)
+TypeScript Definitions for Select2 from DefinitelyTyped

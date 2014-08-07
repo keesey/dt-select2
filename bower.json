@@ -1,0 +1,7 @@
+{
+  "name": "dt-select2",
+  "version": "0.0.1",
+  "dependencies": {
+    "dt-jquery": "latest"
+  }
+}
