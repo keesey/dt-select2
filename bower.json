@@ -1,6 +1,7 @@
 {
   "name": "dt-select2",
   "main": "select2.d.ts",
+  "ignore": [],
   "version": "0.0.1",
   "dependencies": {
     "dt-jquery": "latest"
